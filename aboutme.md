@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: Loubna Baroudi
 ---
 
 Originally from France, I live currently in the US where I am completing a PhD in Mechanical Engineering at the University of Michigan. My focus is on the use of wearable sensing technologies to understand human movement. I specialize in developing solutions for the monitoring of individuals in the real world for extended periods. 
