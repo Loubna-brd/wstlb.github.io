@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Originally from France, I live currently in the US where I am completing a PhD in Mechanical Engineering at the University of Michigan. My focus is on the use of wearable sensing technologies to understand human movement. I specialize in developing solutions for the monitoring of individuals in the real world for extended periods. 
+Outside of research, I am also a private pilot, and I hope to include some aspects of this passion in this website.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Feel free to [email me] (lbaroudi@umich.edu) if you have any question!
 
-What else do you need?
+[my lab] (https://brg.engin.umich.edu) 
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
