@@ -9,6 +9,6 @@ Outside of research, I am also a private pilot, and I hope to include some aspec
 
 Feel free to email me using the link below if you have any question!
 
-
+![Portrait](/assets/img/web755A2559 copy.jpg)
 
 
